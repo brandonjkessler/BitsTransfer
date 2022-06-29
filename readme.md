@@ -1,0 +1,1 @@
+Start-BitsTransfer does not support folders, only supports Individual files. This is an attempt to work around that.
